@@ -1,0 +1,9 @@
+//Berestean Catalin 333CC
+//Tema 1 EGC - Flappy Bird
+
+Mai intii, am modelat imaginea pasarii, fiind compusa din 1 patrat,1 cerc si 1 triunghi.
+Apoi am setat fundalul corespunzator jocului, obstacolele care sunt generate cu o lungime
+random, iar la coliziune jocul se opreste. La apasarea tastei SPACE, pasarea sare cu un
+oarecare interval pentru a putea trece cu brio de obstacole.
+Per total, a fost o tema interactiva in care am antrenat lucrul cu obiectele 2D si
+simularea unui joc :)  
