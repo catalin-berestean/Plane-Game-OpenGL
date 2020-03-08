@@ -1,0 +1,10 @@
+﻿  Laborator5.cpp
+C:\Users\Catalin\Desktop\framework_home\Source\Laboratoare\Laborator5\Laborator5.cpp(31,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Catalin\Desktop\framework_home\Source\Laboratoare\Laborator5\Laborator5.cpp(32,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Catalin\Desktop\framework_home\Source\Laboratoare\Laborator5\Laborator5.cpp(128,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Framework_EGC.vcxproj -> C:\Users\Catalin\Desktop\framework_home\Visual Studio\..\x64\Debug\Framework_EGC.exe
+  A subdirectory or file C:\Users\Catalin\Desktop\framework_home\Visual Studio\scripts\..\..\x64\Debug already exists.
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
